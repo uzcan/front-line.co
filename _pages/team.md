@@ -10,15 +10,14 @@ header:
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
 feature_row:
-  - image_path: assets/images/image1.png
-    title: "Placeholder 1"
+  - image_path: assets/images/bio-photo-1.jpg
+    title: "Can Uzel"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/image2.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+  - image_path: /assets/images/bio-photo-2.jpg
+    title: "Onur Bilinmez"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/image3.png
-    title: "Placeholder 3"
+  - image_path: /assets/images/bio-photo-3.jpg
+    title: "Diğer Kişi"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
