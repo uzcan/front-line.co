@@ -5,10 +5,10 @@ author_profile: false
 ---
 
 Can Uzel
-![alt text](assets/images/image1.png)
+![alt text](https://github.com/uzcan/front-line.co/blob/master/assets/images/bio-photo.jpg)
 
 Onur Bilinmez
-![alt text](assets/images/image1.png)
+![alt text](https://github.com/uzcan/front-line.co/blob/master/assets/images/bio-photo.jpg)
 
 Diğer Kişi
-![alt text](assets/images/image1.png)
+![alt text](https://github.com/uzcan/front-line.co/blob/master/assets/images/bio-photo.jpg)
