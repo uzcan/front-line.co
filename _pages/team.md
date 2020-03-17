@@ -17,7 +17,7 @@ feature_row:
     title: "Onur Bilinmez"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/busra.png
-    title: "Diğer Kişi"
+    title: "Büşra Türkmen"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
