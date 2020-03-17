@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/onur.png
     title: "Onur Bilinmez"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/sumuklu_kopek.png
+  - image_path: /assets/images/busra.png
     title: "Diğer Kişi"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
