@@ -13,3 +13,5 @@ feature_row0:
 
     Latin America Price:   235 $\n"
 ---
+
+{% include feature_row id="feature_row0" type="center" %}
