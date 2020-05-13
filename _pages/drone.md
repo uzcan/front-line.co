@@ -1,5 +1,5 @@
 ---
-permalink: /drone/
+permalink: /drone
 title: "Drone"
 author_profile: false
 ---

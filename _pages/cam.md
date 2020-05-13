@@ -1,5 +1,5 @@
 ---
-permalink: /cam/
+permalink: /cam
 title: "Cam"
 author_profile: false
 ---
