@@ -2,12 +2,14 @@
 permalink: /camera
 title: "Camera"
 author_profile: false
+feature_row0:
+  - image_path: assets/images/camera_buy.png
+    title: "Buy Camera"
+    excerpt: "North America Price:   301 $\n
+
+    Europe-Africa Price:   319 $\n
+
+    Asia-Pacific Price:    276 $\n
+
+    Latin America Price:   235 $\n"
 ---
-
-North America Price:   301 $
-
-Europe-Africa Price:   319 $
-
-Asia-Pacific Price:    276 $
-
-Latin America Price:   235 $
