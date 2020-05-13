@@ -4,10 +4,10 @@ title: "Camera"
 author_profile: false
 ---
 
-North America Price 301 $
+North America Price:   301 $
 
-Europe-Africa Price   319 $
+Europe-Africa Price:   319 $
 
-Asia-Pacific Price      276 $
+Asia-Pacific Price:    276 $
 
-Latin America prica   235 $
+Latin America Price:   235 $
