@@ -1,6 +1,7 @@
 ---
-permalink: /news/
-title: "News"
+permalink: /drone/
+title: "Drone"
 author_profile: false
-layout: posts
 ---
+
+paranız yetmez.
